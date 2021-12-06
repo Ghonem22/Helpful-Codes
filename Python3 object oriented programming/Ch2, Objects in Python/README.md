@@ -1,4 +1,4 @@
-What will This chapter cover?
+# What will This chapter cover?
 
 - How to create classes and instantiate objects in Python
 
