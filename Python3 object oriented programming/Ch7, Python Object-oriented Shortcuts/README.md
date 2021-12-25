@@ -1,6 +1,6 @@
 # Python Object-oriented Shortcuts
 
-## What will we cover in this Repositry?
+## What will we cover in this chapter:
 
 - Built-in functions that take care of common tasks in one call
 
