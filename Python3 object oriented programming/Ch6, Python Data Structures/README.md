@@ -1,6 +1,6 @@
 # Python Data Structures
 
-## What will we cover in this Repositry?
+## What will we cover in this chapter:
 
 - Tuples and named tuples
 - Dictionaries
