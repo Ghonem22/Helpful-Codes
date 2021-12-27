@@ -1,6 +1,6 @@
 # Scrapping flooranddecor site
 
-    The website is devided into 7 department, each one is devided into multiple sub-departments which display all its products.
+   The website is devided into 7 department, each one is devided into multiple sub-departments which display all its products.
 
 ## So, this is the methodology we followed to scrape this website:
 
