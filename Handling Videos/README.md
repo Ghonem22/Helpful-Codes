@@ -1,12 +1,20 @@
 
-## How to compress Video:
+## 1. compress Video:
 
-1. Clone This repo/ use compress.py file
-2. Through terminal:
+* Clone This repo/ use compress.py file
+* Through terminal:
 
       python compress.py video_path num
       
   Where num is an int between 0 and 100, The lower, the lower the outpt size and resolution.  50 is a good default
   
+---
+
+## 2. trim vodeo:
+
+      from moviepy.video.io.ffmpeg_tools import ffmpeg_extract_subclip
+      ffmpeg_extract_subclip(video_path, 800, 950, targetname="test1.mp4")
+
+
 ---
 
