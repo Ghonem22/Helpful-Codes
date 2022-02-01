@@ -1,5 +1,5 @@
 
-## How to compress Video?
+## How to compress Video:
 
 1. Clone This repo/ use compress.py file
 2. Through terminal:
