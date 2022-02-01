@@ -1,6 +1,6 @@
 # We will introduce in few notebooks some essntial tips in openCV
 
-## We will cover in openCV(1):
+## What will we cover in openCV(1):
 
 * Read/ write/ display image
 * Read/ write/ display video
@@ -10,7 +10,7 @@
 
 ---
 
-## We will cover in openCV(2):
+##What will we cover in openCV(2):
 
 * Annotating Images
 * Image Filtering Using Convolution in OpenCV
@@ -18,7 +18,7 @@
 * Blob Detection Using OpenCV
 
 ---
-## We will cover in openCV(3):
+## What will we cover in openCV(3):
 
 * Edge Detection
 * Mouse in OpenCV GUI
@@ -26,4 +26,4 @@
 
 ---
 
-## We will cover in openCV(4):
+## What will we cover in openCV(4):
